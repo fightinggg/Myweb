@@ -13,10 +13,10 @@ document.writeln('                        </div>																																
 document.writeln('                   <div id="right_in">																																												');
 document.writeln('                        <h3><center>其他有趣的文章</center></h3>																																		');
 document.writeln('                        <hr>																																																');
-document.writeln('                                                    <a href="https://fightinggg.github.io/Myweb/" target="_blank">My Myweb Way</a></br>	');
-document.writeln('                                                    <a href="https://fightinggg.github.io/Computer_Architecture/" target="_blank">Computer_Architecture</a></br>					');
-document.writeln('                                                    <a href="https://fightinggg.github.io/SQL/" target="_blank">sql</a></br>																			');
-document.writeln('                                                    <a href="https://fightinggg.github.io/python_and_web/"  target="_blank">python and web</a></br>													');
+document.writeln('                                                    <a href="https://fightinggg.github.io/ACM/" target="_blank">My ACM Way</a></br>	');
+document.writeln('                                                    <a href="https://fightinggg.github.io/Myweb/Computer_Architecture/" target="_blank">Computer_Architecture</a></br>					');
+document.writeln('                                                    <a href="https://fightinggg.github.io/Myweb/SQL/" target="_blank">sql</a></br>																			');
+document.writeln('                                                    <a href="https://fightinggg.github.io/Myweb/python_and_web/"  target="_blank">python and web</a></br>													');
 document.writeln('                        <hr>																																																');
 document.writeln('                        </div>																																																');
 

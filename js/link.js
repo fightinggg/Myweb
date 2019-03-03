@@ -5,9 +5,9 @@ if (window.innerWidth>1000){
  }
 
 
-document.writeln("   <link rel=\"stylesheet\" type=\"text/css\"  href=\"/fightinggg/css/head.css\">");
-document.writeln("   <link rel=\"stylesheet\" type=\"text/css\"  href=\"/fightinggg/css/pastebin.css\">");
-document.writeln("   <link rel=\"stylesheet\" type=\"text/css\"  href=\"/fightinggg/css/code.css\">");
+document.writeln("   <link rel=\"stylesheet\" type=\"text/css\"  href=\"/Myweb/css/head.css\">");
+document.writeln("   <link rel=\"stylesheet\" type=\"text/css\"  href=\"/Myweb/css/pastebin.css\">");
+document.writeln("   <link rel=\"stylesheet\" type=\"text/css\"  href=\"/Myweb/css/code.css\">");
 
 
 //自动提交
