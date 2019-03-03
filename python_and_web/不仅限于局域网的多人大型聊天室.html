@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="/fightinggg/js/link.js"></script>
+
+    <title>不仅限于局域网的大型聊天室</title>
+</head>
+
+<body>
+<div id="myweb">
+
+    <!--    啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦-->
+    <script type="text/javascript" src="/fightinggg/js/up_and_right.js"></script>
+    <!--    啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦-->
+
+    <div id="left">
+        <div id="left_in">
+
+
+            <center><h1>不仅限于局域网的大型聊天室</h1></center>
+
+            </br>
+
+
+                <div style="border:1px solid #555555;width:100%;margin: 0 auto;overflow: scroll">
+                    <div style="margin-left:10px">
+                        服务器
+                        <pre><span class="kn">from</span> <span class="nn">socket</span> <span
+                                class="k">import</span> <span class="o">*</span>
+
+<span class="n">cline_addr</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="n">cline_name</span> <span class="o">=</span> <span class="p">[]</span>
+
+<span class="n">ADDR</span> <span class="o">=</span> <span class="p">(</span><span class="s">&#39;&#39;</span><span
+                                    class="p">,</span> <span class="mi">21567</span><span class="p">)</span>
+<span class="n">udpSerSock</span> <span class="o">=</span> <span class="n">socket</span><span class="p">(</span><span
+                                    class="n">AF_INET</span><span class="p">,</span> <span
+                                    class="n">SOCK_DGRAM</span><span class="p">)</span>
+<span class="n">udpSerSock</span><span class="o">.</span><span class="n">bind</span><span class="p">(</span><span
+                                    class="n">ADDR</span><span class="p">)</span>
+
+
+<span class="k">def</span> <span class="nf">getname</span><span class="p">(</span><span class="n">addr</span><span
+                                    class="p">):</span>
+    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span
+                                    class="p">(</span><span class="n">cline_addr</span><span class="o">.</span><span
+                                    class="n">__len__</span><span class="p">()):</span>
+        <span class="k">if</span> <span class="p">(</span><span class="n">cline_addr</span><span class="p">[</span><span
+                                    class="n">i</span><span class="p">]</span> <span class="o">==</span> <span
+                                    class="n">addr</span><span class="p">):</span>
+            <span class="k">return</span> <span class="n">cline_name</span><span class="p">[</span><span
+                                    class="n">i</span><span class="p">]</span>
+    <span class="k">return</span> <span class="s">&quot;???&quot;</span>
+
+
+<span class="k">while</span> <span class="k">True</span><span class="p">:</span>
+    <span class="n">data</span><span class="p">,</span> <span class="n">addr</span> <span class="o">=</span> <span
+                                    class="n">udpSerSock</span><span class="o">.</span><span
+                                    class="n">recvfrom</span><span class="p">(</span><span class="mi">1024</span><span
+                                    class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s">&quot;收到信息&quot;</span><span class="p">)</span>
+    <span class="k">if</span> <span class="p">(</span><span class="n">addr</span> <span class="ow">in</span> <span
+                                    class="n">cline_addr</span><span class="p">):</span>
+        <span class="n">name</span> <span class="o">=</span> <span class="n">getname</span><span class="p">(</span><span
+                                    class="n">addr</span><span class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="n">addr</span><span class="p">,</span> <span
+                                    class="n">end</span><span class="o">=</span><span class="s">&quot;&quot;</span><span
+                                    class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s">&quot;&quot;</span> <span
+                                    class="o">+</span> <span class="n">name</span><span class="p">,</span> <span
+                                    class="n">end</span><span class="o">=</span><span class="s">&quot;&quot;</span><span
+                                    class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="n">data</span><span class="o">.</span><span
+                                    class="n">decode</span><span class="p">())</span>
+
+        <span class="k">if</span> <span class="p">(</span><span class="n">cline_addr</span><span class="o">.</span><span
+                                    class="n">__len__</span><span class="p">()</span> <span class="o">&gt;</span> <span
+                                    class="mi">1</span><span class="p">):</span>
+            <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span
+                                    class="p">(</span><span class="n">cline_addr</span><span class="o">.</span><span
+                                    class="n">__len__</span><span class="p">()):</span>
+                <span class="k">if</span> <span class="p">(</span><span class="n">cline_addr</span><span
+                                    class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">!=</span> <span
+                                    class="n">addr</span><span class="p">):</span>
+                    <span class="n">udpSerSock</span><span class="o">.</span><span class="n">sendto</span><span
+                                    class="p">((</span><span class="n">name</span> <span class="o">+</span> <span
+                                    class="n">data</span><span class="o">.</span><span class="n">decode</span><span
+                                    class="p">())</span><span class="o">.</span><span class="n">encode</span><span
+                                    class="p">(),</span> <span class="n">cline_addr</span><span class="p">[</span><span
+                                    class="n">i</span><span class="p">])</span>
+
+    <span class="k">else</span><span class="p">:</span>
+        <span class="n">data_recv</span> <span class="o">=</span> <span class="n">data</span><span
+                                    class="o">.</span><span class="n">decode</span><span class="p">()</span>
+        <span class="k">if</span> <span class="p">(</span><span class="n">data_recv</span><span class="p">[</span><span
+                                    class="mi">0</span><span class="p">:</span><span class="mi">11</span><span
+                                    class="p">]</span> <span class="o">==</span> <span
+                                    class="s">&quot;my name is &quot;</span> <span class="ow">and</span> <span
+                                    class="nb">len</span><span class="p">(</span><span class="n">data_recv</span><span
+                                    class="p">)</span> <span class="o">&gt;</span> <span class="mi">11</span><span
+                                    class="p">):</span>
+            <span class="n">name</span> <span class="o">=</span> <span class="n">data_recv</span><span
+                                    class="p">[</span><span class="mi">11</span><span class="p">:</span><span
+                                    class="nb">len</span><span class="p">(</span><span class="n">data_recv</span><span
+                                    class="p">)]</span> <span class="o">+</span> <span class="s">&quot;: &quot;</span>
+            <span class="n">cline_name</span><span class="o">.</span><span class="n">append</span><span
+                                    class="p">(</span><span class="n">name</span><span class="p">)</span>
+            <span class="n">cline_addr</span><span class="o">.</span><span class="n">append</span><span
+                                    class="p">(</span><span class="n">addr</span><span class="p">)</span>
+
+            <span class="nb">print</span><span class="p">(</span><span class="n">name</span> <span
+                                    class="o">+</span> <span class="s">&quot;来玩了！！！！！&quot;</span><span
+                                    class="p">)</span>
+
+            <span class="k">if</span> <span class="p">(</span><span class="n">cline_addr</span><span
+                                    class="o">.</span><span class="n">__len__</span><span class="p">()</span> <span
+                                    class="o">&gt;</span> <span class="mi">1</span><span class="p">):</span>
+                <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span
+                                    class="nb">range</span><span class="p">(</span><span
+                                    class="n">cline_addr</span><span class="o">.</span><span
+                                    class="n">__len__</span><span class="p">()):</span>
+                    <span class="n">udpSerSock</span><span class="o">.</span><span class="n">sendto</span><span
+                                    class="p">((</span><span class="n">name</span> <span class="o">+</span> <span
+                                    class="s">&quot;来玩了！！！！！&quot;</span><span class="p">)</span><span
+                                    class="o">.</span><span class="n">encode</span><span class="p">(),</span> <span
+                                    class="n">cline_addr</span><span class="p">[</span><span class="n">i</span><span
+                                    class="p">])</span>
+
+        <span class="k">else</span><span class="p">:</span>
+            <span class="n">data_return</span> <span class="o">=</span> <span class="s">&quot;告诉我们您的名字，然后您就能多人聊天了,您刚才输入的信息不会被发送,因为我们不知道您的名字，请按照这样的格式发送</span><span
+                                    class="se">\&quot;</span><span class="s">my name is 尹港</span><span class="se">\&quot;</span><span
+                                    class="s">&quot;</span>
+            <span class="n">udpSerSock</span><span class="o">.</span><span class="n">sendto</span><span
+                                    class="p">(</span><span class="n">data_return</span><span class="o">.</span><span
+                                    class="n">encode</span><span class="p">(),</span> <span class="n">addr</span><span
+                                    class="p">)</span>
+
+<span class="n">udpSerSock</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+</pre>
+                    </div>
+                </div>
+                </br>
+
+
+                <div style="border:1px solid #555555;width:100%;margin: 0 auto;">
+                    <div style="margin-left:10px">
+                        客户端
+                        <pre><span class="kn">from</span> <span class="nn">socket</span> <span
+                                class="k">import</span> <span class="o">*</span>
+<span class="kn">import</span> <span class="nn">threading</span>
+
+<span class="n">HOST</span> <span class="o">=</span> <span class="s">&#39;129.28.129.213&#39;</span>
+<span class="n">PORT</span> <span class="o">=</span> <span class="mi">21567</span>
+<span class="n">BUFSIZ</span> <span class="o">=</span> <span class="mi">1024</span>
+<span class="n">ADDR</span> <span class="o">=</span> <span class="p">(</span><span class="n">HOST</span><span class="p">,</span><span
+                                    class="n">PORT</span><span class="p">)</span>
+<span class="n">udpCliSock</span> <span class="o">=</span> <span class="n">socket</span><span class="p">(</span><span
+                                    class="n">AF_INET</span><span class="p">,</span><span
+                                    class="n">SOCK_DGRAM</span><span class="p">)</span>
+<span class="n">udpCliSock</span> <span class="o">.</span><span class="n">bind</span><span class="p">((</span><span
+                                    class="s">&#39;&#39;</span><span class="p">,</span><span class="n">PORT</span><span
+                                    class="p">))</span>
+
+
+<span class="k">def</span> <span class="nf">recv</span><span class="p">():</span>
+    <span class="k">while</span> <span class="p">(</span><span class="k">True</span><span class="p">):</span>
+        <span class="n">data</span><span class="p">,</span><span class="n">addr</span><span class="o">=</span><span
+                                    class="n">udpCliSock</span><span class="o">.</span><span
+                                    class="n">recvfrom</span><span class="p">(</span><span class="mi">1024</span><span
+                                    class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="n">data</span><span class="o">.</span><span
+                                    class="n">decode</span><span class="p">())</span>
+
+
+<span class="n">t1</span> <span class="o">=</span> <span class="n">threading</span><span class="o">.</span><span
+                                    class="n">Thread</span><span class="p">(</span><span class="n">target</span><span
+                                    class="o">=</span><span class="n">recv</span><span class="p">,</span> <span
+                                    class="n">args</span><span class="o">=</span><span class="p">())</span>
+<span class="n">t1</span><span class="o">.</span><span class="n">start</span><span class="p">()</span>
+
+
+<span class="k">while</span> <span class="k">True</span><span class="p">:</span>
+    <span class="n">data</span> <span class="o">=</span> <span class="nb">input</span><span class="p">()</span>
+    <span class="n">udpCliSock</span><span class="o">.</span><span class="n">sendto</span><span class="p">(</span><span
+                                    class="n">data</span><span class="o">.</span><span class="n">encode</span><span
+                                    class="p">(),</span><span class="n">ADDR</span><span class="p">)</span>
+<span class="n">udpCliSock</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+</pre>
+                    </div>
+                </div>
+                </br>
+
+
+                &nbsp;&nbsp;&nbsp;&nbsp;效果已经很棒了，由于服务器（部署在腾讯云上）的加入，让我们的服务端真正成了服务端
+                服务端很简单写，只要一直接受信息就行了，收到信息就转发给所有人即可。但是客户端反倒困难些，我们要引入多线程来控制
+                一边输入信息发给服务器，一边接受服务器的消息。</br>
+                &nbsp;&nbsp;&nbsp;&nbsp;之前的问题已经解决，当服务器部署在腾讯云以后，只支持局域网的局限不再出现了。
+
+
+
+
+            </div>
+        </div>
+
+
+    </div>
+</div>
+
+</div>
+</body>
+</html>
+
+
