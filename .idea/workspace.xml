@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd9b9e16-3145-41dd-82f2-6f8b7ed1513c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python_and_web/不仅限于局域网的多人大型聊天室+客户端可视化.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_pro.html" beforeDir="false" afterPath="$PROJECT_DIR$/new_pro.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_and_web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/python_and_web/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -14,16 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_and_web/不仅限于局域网的多人大型聊天室.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2466">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_and_web/简单的宿舍内部客户端向服务端发送信息.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_and_web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+            <state relative-caret-position="446">
+              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -78,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/new_pro.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            <state relative-caret-position="274">
+              <caret line="24" column="75" selection-start-line="24" selection-start-column="75" selection-end-line="24" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -107,9 +101,59 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_and_web/不仅限于局域网的多人大型聊天室+客户端可视化.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="187" column="55" selection-start-line="187" selection-start-column="55" selection-end-line="187" selection-end-column="55" />
+              <folding>
+                <element signature="e#1088#1093#0" expanded="true" />
+                <element signature="e#1093#1098#0" expanded="true" />
+                <element signature="e#2398#2404#0" expanded="true" />
+                <element signature="e#2407#2413#0" expanded="true" />
+                <element signature="e#2851#2857#0" expanded="true" />
+                <element signature="e#2861#2867#0" expanded="true" />
+                <element signature="e#3413#3419#0" expanded="true" />
+                <element signature="e#3419#3425#0" expanded="true" />
+                <element signature="e#3534#3540#0" expanded="true" />
+                <element signature="e#3540#3546#0" expanded="true" />
+                <element signature="e#3697#3703#0" expanded="true" />
+                <element signature="e#3703#3709#0" expanded="true" />
+                <element signature="e#4097#4101#1" expanded="true" />
+                <element signature="e#5377#5383#0" expanded="true" />
+                <element signature="e#5394#5400#0" expanded="true" />
+                <element signature="e#5560#5564#1" expanded="true" />
+                <element signature="e#5945#5951#0" expanded="true" />
+                <element signature="e#5953#5959#0" expanded="true" />
+                <element signature="e#6450#6456#0" expanded="true" />
+                <element signature="e#6464#6470#0" expanded="true" />
+                <element signature="e#6694#6698#1" expanded="true" />
+                <element signature="e#7220#7226#0" expanded="true" />
+                <element signature="e#7234#7240#0" expanded="true" />
+                <element signature="e#7607#7613#0" expanded="true" />
+                <element signature="e#7694#7700#0" expanded="true" />
+                <element signature="e#7761#7767#0" expanded="true" />
+                <element signature="e#7790#7796#1" expanded="true" />
+                <element signature="e#10576#10581#0" expanded="true" />
+                <element signature="e#10595#10600#0" expanded="true" />
+                <element signature="e#11305#11310#0" expanded="true" />
+                <element signature="e#11310#11315#0" expanded="true" />
+                <element signature="e#12155#12161#0" expanded="true" />
+                <element signature="e#12161#12167#0" expanded="true" />
+                <element signature="e#15283#15289#0" expanded="true" />
+                <element signature="e#15289#15293#0" expanded="true" />
+                <element signature="e#15308#15312#0" expanded="true" />
+                <element signature="e#15312#15318#0" expanded="true" />
+                <element signature="e#14336#14342#0" expanded="true" />
+                <element signature="e#14354#14360#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/asdfsa.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="825">
               <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
             </state>
           </provider>
@@ -149,14 +193,15 @@
         <option value="$PROJECT_DIR$/python_and_web/简单的宿舍内部客户端向服务端发送信息.html" />
         <option value="$PROJECT_DIR$/js/up_and_right.js" />
         <option value="$PROJECT_DIR$/js/link.js" />
-        <option value="$PROJECT_DIR$/new_pro.html" />
+        <option value="$PROJECT_DIR$/python_and_web/不仅限于局域网的多人大型聊天室+客户端可视化.html" />
         <option value="$PROJECT_DIR$/python_and_web/index.html" />
+        <option value="$PROJECT_DIR$/new_pro.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="6" />
-    <option name="y" value="56" />
+    <option name="x" value="115" />
+    <option name="y" value="44" />
     <option name="width" value="1400" />
     <option name="height" value="763" />
   </component>
@@ -198,6 +243,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python_and_web" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -210,7 +260,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.new_pro.html">
+  <component name="RunManager" selected="JavaScript Debug.不仅限于局域网的多人大型聊天室+客户端可视化.html">
+    <configuration name="不仅限于局域网的多人大型聊天室+客户端可视化.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Myweb/python_and_web/不仅限于局域网的多人大型聊天室+客户端可视化.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="不仅限于局域网的多人大型聊天室.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myweb/python_and_web/不仅限于局域网的多人大型聊天室.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -225,6 +278,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.不仅限于局域网的多人大型聊天室+客户端可视化.html" />
         <item itemvalue="JavaScript Debug.new_pro.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.不仅限于局域网的多人大型聊天室.html" />
@@ -242,24 +296,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551619064532</updated>
-      <workItem from="1551619065747" duration="1824000" />
+      <workItem from="1551619065747" duration="2167000" />
+      <workItem from="1551677174060" duration="486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1824000" />
+    <option name="totallyTimeSpent" value="2653000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="56" width="1400" height="763" extended-state="0" />
+    <frame x="115" y="44" width="1400" height="763" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -267,6 +318,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -389,10 +444,38 @@
     <entry file="file://$PROJECT_DIR$/SQL/游标.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_and_web/不仅限于局域网的多人大型聊天室.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_and_web/简单的宿舍内部客户端向服务端发送信息.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Computer_Architecture/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="42" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/up_and_right.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="114" selection-start-line="18" selection-start-column="114" selection-end-line="18" selection-end-column="114" />
         </state>
       </provider>
     </entry>
@@ -403,10 +486,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/指针与sizeof.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        <state relative-caret-position="330">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asdfsa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -427,52 +517,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_and_web/不仅限于局域网的多人大型聊天室.html">
+    <entry file="file://$PROJECT_DIR$/python_and_web/不仅限于局域网的多人大型聊天室+客户端可视化.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2466">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/指针与sizeof.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/asdfsa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_and_web/简单的宿舍内部客户端向服务端发送信息.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/up_and_right.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="114" selection-start-line="18" selection-start-column="114" selection-end-line="18" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_pro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        <state relative-caret-position="309">
+          <caret line="187" column="55" selection-start-line="187" selection-start-column="55" selection-end-line="187" selection-end-column="55" />
+          <folding>
+            <element signature="e#1088#1093#0" expanded="true" />
+            <element signature="e#1093#1098#0" expanded="true" />
+            <element signature="e#2398#2404#0" expanded="true" />
+            <element signature="e#2407#2413#0" expanded="true" />
+            <element signature="e#2851#2857#0" expanded="true" />
+            <element signature="e#2861#2867#0" expanded="true" />
+            <element signature="e#3413#3419#0" expanded="true" />
+            <element signature="e#3419#3425#0" expanded="true" />
+            <element signature="e#3534#3540#0" expanded="true" />
+            <element signature="e#3540#3546#0" expanded="true" />
+            <element signature="e#3697#3703#0" expanded="true" />
+            <element signature="e#3703#3709#0" expanded="true" />
+            <element signature="e#4097#4101#1" expanded="true" />
+            <element signature="e#5377#5383#0" expanded="true" />
+            <element signature="e#5394#5400#0" expanded="true" />
+            <element signature="e#5560#5564#1" expanded="true" />
+            <element signature="e#5945#5951#0" expanded="true" />
+            <element signature="e#5953#5959#0" expanded="true" />
+            <element signature="e#6450#6456#0" expanded="true" />
+            <element signature="e#6464#6470#0" expanded="true" />
+            <element signature="e#6694#6698#1" expanded="true" />
+            <element signature="e#7220#7226#0" expanded="true" />
+            <element signature="e#7234#7240#0" expanded="true" />
+            <element signature="e#7607#7613#0" expanded="true" />
+            <element signature="e#7694#7700#0" expanded="true" />
+            <element signature="e#7761#7767#0" expanded="true" />
+            <element signature="e#7790#7796#1" expanded="true" />
+            <element signature="e#10576#10581#0" expanded="true" />
+            <element signature="e#10595#10600#0" expanded="true" />
+            <element signature="e#11305#11310#0" expanded="true" />
+            <element signature="e#11310#11315#0" expanded="true" />
+            <element signature="e#12155#12161#0" expanded="true" />
+            <element signature="e#12161#12167#0" expanded="true" />
+            <element signature="e#15283#15289#0" expanded="true" />
+            <element signature="e#15289#15293#0" expanded="true" />
+            <element signature="e#15308#15312#0" expanded="true" />
+            <element signature="e#15312#15318#0" expanded="true" />
+            <element signature="e#14336#14342#0" expanded="true" />
+            <element signature="e#14354#14360#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python_and_web/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+        <state relative-caret-position="446">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_pro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="24" column="75" selection-start-line="24" selection-start-column="75" selection-end-line="24" selection-end-column="75" />
         </state>
       </provider>
     </entry>
