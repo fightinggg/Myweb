@@ -22,7 +22,7 @@
             <center><h1>简单的宿舍内部客户端向服务端发送信息</h1></center>
 
             <div>
-                <div style="border:1px solid #555555;width:100%;margin: 0 auto;">
+                <div style="border:1px solid #555555;width:100%;margin: 0 auto;overflow: scroll">
                     <div style="margin-left:10px">
         <pre>
     服务端
@@ -55,9 +55,8 @@
 
 
                 </br>
-                <div style="border:1px solid #555555;width:100%;margin: 0 auto;"
-                ">
-                <div style="margin-left:10px">
+                <div style="border:1px solid #555555;width:100%;margin: 0 auto;overflow: scroll">
+                    <div style="margin-left:10px">
         <pre>
     客户端
         <pre><span class="kn">from</span> <span class="nn">socket</span> <span class="k">import</span> <span
@@ -85,26 +84,26 @@
                     class="n">decode</span><span class="p">())</span>
 <span class="n">udpCliSock</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
 </pre></pre>
+                    </div>
                 </div>
+                </br>
+                效果的话，很垃圾:</br>
+                &nbsp; &nbsp; &nbsp; &nbsp;服务端先定义一个对象，然后绑定端口号，一直处于接受信息的状态</br>
+                &nbsp; &nbsp; &nbsp; &nbsp;客户端每当客户发送信息至服务端就准备接受服务端的回应，然后打印出来即可</br>
+
+                期间遇到的问题有这样几个：</br>
+                &nbsp; &nbsp; &nbsp; &nbsp;1.发送和接受要分别编码和解码（encode和decode）</br>
+                &nbsp; &nbsp; &nbsp; &nbsp;2.发现此工具只能用于校园大局域网CUG,原因未知</br>
+                &nbsp; &nbsp; &nbsp; &nbsp;3.服务端发回去时所使用的地址，是乱猜的，可以使用，但为什么可以原因未知</br>
+                &nbsp; &nbsp; &nbsp; &nbsp;4.考虑到聊天室可能涉及多线程，没有写</br>
+
+                </br>头好疼，不写了
+
             </div>
-            </br>
-            效果的话，很垃圾:</br>
-            &nbsp; &nbsp; &nbsp; &nbsp;服务端先定义一个对象，然后绑定端口号，一直处于接受信息的状态</br>
-            &nbsp; &nbsp; &nbsp; &nbsp;客户端每当客户发送信息至服务端就准备接受服务端的回应，然后打印出来即可</br>
-
-            期间遇到的问题有这样几个：</br>
-            &nbsp; &nbsp; &nbsp; &nbsp;1.发送和接受要分别编码和解码（encode和decode）</br>
-            &nbsp; &nbsp; &nbsp; &nbsp;2.发现此工具只能用于校园大局域网CUG,原因未知</br>
-            &nbsp; &nbsp; &nbsp; &nbsp;3.服务端发回去时所使用的地址，是乱猜的，可以使用，但为什么可以原因未知</br>
-            &nbsp; &nbsp; &nbsp; &nbsp;4.考虑到聊天室可能涉及多线程，没有写</br>
-
-            </br>头好疼，不写了
-
         </div>
+
+
     </div>
-
-
-</div>
 </div>
 
 </div>
