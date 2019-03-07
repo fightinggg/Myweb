@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cd9b9e16-3145-41dd-82f2-6f8b7ed1513c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_pro.html" beforeDir="false" afterPath="$PROJECT_DIR$/new_pro.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,10 +16,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_and_web/简单的宿舍内部客户端向服务端发送信息.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
+            <state relative-caret-position="795">
               <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -78,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/new_pro.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="24" column="75" selection-start-line="24" selection-start-column="75" selection-end-line="24" selection-end-column="75" />
+              <caret line="24" column="95" selection-start-line="24" selection-start-column="95" selection-end-line="24" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -161,16 +162,16 @@
         <option value="$PROJECT_DIR$/js/up_and_right.js" />
         <option value="$PROJECT_DIR$/js/link.js" />
         <option value="$PROJECT_DIR$/python_and_web/index.html" />
-        <option value="$PROJECT_DIR$/new_pro.html" />
         <option value="$PROJECT_DIR$/python_and_web/不仅限于局域网的多人大型聊天室+客户端可视化.html" />
         <option value="$PROJECT_DIR$/python_and_web/不仅限于局域网的多人大型聊天室.html" />
         <option value="$PROJECT_DIR$/python_and_web/简单的宿舍内部客户端向服务端发送信息.html" />
+        <option value="$PROJECT_DIR$/new_pro.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="40" />
-    <option name="y" value="62" />
+    <option name="y" value="61" />
     <option name="width" value="1400" />
     <option name="height" value="763" />
   </component>
@@ -182,7 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,21 +195,11 @@
               <item name="Myweb" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Myweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Myweb" type="462c0819:PsiDirectoryNode" />
-              <item name="python_and_web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Myweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Myweb" type="462c0819:PsiDirectoryNode" />
-              <item name="python_and_web" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,14 +265,16 @@
       <workItem from="1551677174060" duration="486000" />
       <workItem from="1551677760985" duration="389000" />
       <workItem from="1551750245142" duration="342000" />
+      <workItem from="1551799525571" duration="158000" />
+      <workItem from="1551950130001" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3384000" />
+    <option name="totallyTimeSpent" value="3558000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="62" width="1400" height="763" extended-state="0" />
+    <frame x="40" y="61" width="1400" height="763" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
@@ -438,7 +430,7 @@
     <entry file="file://$PROJECT_DIR$/python_and_web/img/FA9B6F7E-EF08-459C-92A0-18EC1739093B.png" />
     <entry file="file://$PROJECT_DIR$/python_and_web/简单的宿舍内部客户端向服务端发送信息.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
+        <state relative-caret-position="795">
           <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -487,13 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/new_pro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="75" selection-start-line="24" selection-start-column="75" selection-end-line="24" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/new_file.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -526,6 +511,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
           <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_pro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="95" selection-start-line="24" selection-start-column="95" selection-end-line="24" selection-end-column="95" />
         </state>
       </provider>
     </entry>
