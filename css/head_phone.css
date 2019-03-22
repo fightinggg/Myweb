@@ -7,12 +7,12 @@ body {
     background-position: center;
 
     color: black;
-    font-size: 15px;
+    font-size: 25px;
 }
 
 
 #myweb {
-    width: 1200px;
+    width: 1000px;
     margin: auto;
     z-index: 1;
     filter: alpha(Opacity=95);
@@ -24,7 +24,7 @@ body {
     background: white;
     padding: 10px;
     margin-top: 20px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     border: 3px black double;
 
 }
@@ -37,18 +37,15 @@ body {
 
 
 #left {
-    width: 1000px;
-    float: left;
+    width: 100%;
+    background-color:white;
 }
 
 
 #left_in {
     background-color: white;
-    width: 970px;
-    float: left;
-    padding: 10px;
-    margin-right: 10px;
-    margin-bottom: 20px;
+    width: 980px;
+    padding: 10px  10px  10px  10px;
 }
 
 #text {
@@ -56,13 +53,13 @@ body {
 }
 
 #index {
-    overflow: hidden;
     background-color: white;
     border: 1px black dotted;
     height: 100px;
     padding: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
+    overflow: hidden;
 }
 
 #index a {
@@ -78,17 +75,20 @@ body {
 
 
 #right {
-    width: 200px;
-    float: right;
+    width: 100%;
+    margin-bottom: 30px;
+    overflow: scroll;
 }
 
 #right_in {
     background-color: white;
     border: 1px black dotted;
-    width: 178px;
+    width: 158px;
+    height: 450px;
     float: right;
-    padding: 10px;
-    margin-bottom: 10px;
+    padding: 0px 10px 0px 10px;
+    margin:0px 10px 0px 10px;
+    overflow: scroll;
 }
 
 #right_in a {
@@ -100,9 +100,10 @@ body {
     color: #555;
 }
 
+
 #down{
-    width:1200px;
-    margin-bottom: 1200px;
+    width:1000px;
+    margin-bottom: 2000px;
     background-color: white;
     float: left;
 }
