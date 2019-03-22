@@ -44,8 +44,10 @@ body {
 
 #left_in {
     background-color: white;
+
     width: 980px;
     padding: 10px  10px  10px  10px;
+    margin-bottom: 20px;
 }
 
 #text {

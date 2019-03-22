@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd9b9e16-3145-41dd-82f2-6f8b7ed1513c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/code.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/code.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/head.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/head.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/link.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/link.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_pro.html" beforeDir="false" afterPath="$PROJECT_DIR$/new_pro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/head_phone.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/head_phone.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,15 +16,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/link.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/指针与sizeof.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -37,18 +24,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/new_pro.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/head_phone.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/head.css">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -118,11 +118,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/asdfsa.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+            <state relative-caret-position="360">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -173,6 +173,7 @@
         <option value="$PROJECT_DIR$/python_and_excal/index.html" />
         <option value="$PROJECT_DIR$/new_pro.html" />
         <option value="$PROJECT_DIR$/js/link.js" />
+        <option value="$PROJECT_DIR$/css/head_phone.css" />
       </list>
     </option>
   </component>
@@ -190,6 +191,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,7 +213,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,14 +240,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.new_pro.html">
+  <component name="RunManager" selected="JavaScript Debug.asdfsa.html">
     <configuration name="不仅限于局域网的多人大型聊天室+客户端可视化.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Myweb/python_and_web/不仅限于局域网的多人大型聊天室+客户端可视化.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="不仅限于局域网的多人大型聊天室.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myweb/python_and_web/不仅限于局域网的多人大型聊天室.html" useBuiltInWebServerPort="true">
+    <configuration name="简单的宿舍内部客户端向服务端发送信息.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Myweb/python_and_web/简单的宿舍内部客户端向服务端发送信息.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="简单的宿舍内部客户端向服务端发送信息.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Myweb/python_and_web/简单的宿舍内部客户端向服务端发送信息.html" useBuiltInWebServerPort="true">
+    <configuration name="asdfsa.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myweb/asdfsa.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myweb/python_and_web/index.html" useBuiltInWebServerPort="true">
@@ -260,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.asdfsa.html" />
         <item itemvalue="JavaScript Debug.new_pro.html" />
         <item itemvalue="JavaScript Debug.using_python_elegance.html" />
         <item itemvalue="JavaScript Debug.不仅限于局域网的多人大型聊天室+客户端可视化.html" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.不仅限于局域网的多人大型聊天室.html" />
       </list>
     </recent_temporary>
   </component>
@@ -295,11 +296,12 @@
       <workItem from="1552897470673" duration="10000" />
       <workItem from="1553256594919" duration="24000" />
       <workItem from="1553256699840" duration="81000" />
+      <workItem from="1553256970867" duration="111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5322000" />
+    <option name="totallyTimeSpent" value="5433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="21" y="60" width="1400" height="763" extended-state="0" />
@@ -486,10 +488,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/指针与sizeof.html">
+    <entry file="file://$PROJECT_DIR$/js/link.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -505,13 +507,6 @@
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#pre#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -550,27 +545,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/asdfsa.html">
+    <entry file="file://$PROJECT_DIR$/new_pro.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+        <state relative-caret-position="176">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/head.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/link.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="290">
+          <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/new_pro.html">
+    <entry file="file://$PROJECT_DIR$/css/head_phone.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="260">
+          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/指针与sizeof.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asdfsa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
         </state>
       </provider>
     </entry>
