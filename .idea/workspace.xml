@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd9b9e16-3145-41dd-82f2-6f8b7ed1513c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/uml/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/活动图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/状态图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/用例图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/用例图/association.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/用例图/dependency.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/用例图/directedassocition.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/用例图/extends.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/用例图/includes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/用例图/inheritance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/类图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/顺序图.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd9b9e16-3145-41dd-82f2-6f8b7ed1513c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -40,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/uml/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -265,7 +251,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.顺序图.html" />
         <item itemvalue="JavaScript Debug.new_pro.html" />
         <item itemvalue="JavaScript Debug.递归大数.html" />
       </list>
@@ -306,16 +291,15 @@
       <workItem from="1555861155162" duration="11000" />
       <workItem from="1556266875785" duration="1637000" />
       <workItem from="1556268840420" duration="1213000" />
-      <workItem from="1556271097849" duration="432000" />
+      <workItem from="1556271097849" duration="481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9585000" />
+    <option name="totallyTimeSpent" value="9634000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="68" width="1191" height="763" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23076923" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -622,6 +606,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/uml/活动图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asdfsa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/new_file.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -636,13 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uml/活动图.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -650,17 +641,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/asdfsa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/uml/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
