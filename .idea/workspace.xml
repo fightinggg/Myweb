@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd9b9e16-3145-41dd-82f2-6f8b7ed1513c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/new_pro.html" beforeDir="false" afterPath="$PROJECT_DIR$/new_pro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/活动图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/状态图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/用例图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/用例图/association.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/用例图/dependency.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/用例图/directedassocition.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/用例图/extends.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/用例图/includes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/用例图/inheritance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/类图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/顺序图.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,20 +27,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/new_pro.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uml/活动图.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+            <state relative-caret-position="255">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/指针与sizeof.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/uml/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="270">
+              <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -43,10 +55,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_and_excal/index.html">
+        <entry file="file://$PROJECT_DIR$/uml/顺序图.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/new_pro.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -54,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/new_file.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+            <state>
+              <caret selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -76,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/asdfsa.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="351">
+              <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -138,15 +159,21 @@
         <option value="$PROJECT_DIR$/js/link.js" />
         <option value="$PROJECT_DIR$/css/head_phone.css" />
         <option value="$PROJECT_DIR$/杂项/递归大数" />
-        <option value="$PROJECT_DIR$/new_file.html" />
         <option value="$PROJECT_DIR$/杂项/递归大数.html" />
         <option value="$PROJECT_DIR$/new_pro.html" />
+        <option value="$PROJECT_DIR$/uml/类图.html" />
+        <option value="$PROJECT_DIR$/uml/用例图.html" />
+        <option value="$PROJECT_DIR$/uml/状态图.html" />
+        <option value="$PROJECT_DIR$/uml/顺序图.html" />
+        <option value="$PROJECT_DIR$/uml/活动图.html" />
+        <option value="$PROJECT_DIR$/new_file.html" />
+        <option value="$PROJECT_DIR$/uml/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="102" />
-    <option name="y" value="57" />
+    <option name="x" value="99" />
+    <option name="y" value="68" />
     <option name="width" value="1191" />
     <option name="height" value="763" />
   </component>
@@ -166,6 +193,11 @@
               <item name="Myweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="Myweb" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Myweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Myweb" type="462c0819:PsiDirectoryNode" />
+              <item name="uml" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -180,13 +212,14 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/uml/用例图" />
+      <recent name="$PROJECT_DIR$/杂项" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/python_and_web/img" />
       <recent name="$PROJECT_DIR$/python_and_web" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/杂项" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -201,29 +234,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.new_pro.html">
-    <configuration name="递归大数" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myweb/杂项/递归大数" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="递归大数.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myweb/杂项/递归大数.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="asdfsa.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myweb/asdfsa.html" useBuiltInWebServerPort="true">
+    <configuration name="顺序图.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myweb/uml/顺序图.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="类图.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myweb/uml/类图.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="状态图.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myweb/uml/状态图.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="活动图.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myweb/uml/活动图.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="用例图.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myweb/uml/用例图.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="类图.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myweb/uml/类图.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myweb/uml/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="new_pro.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Myweb/new_pro.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="using_python_elegance.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Myweb/python_and_excal/using_python_elegance.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.顺序图.html" />
         <item itemvalue="JavaScript Debug.new_pro.html" />
         <item itemvalue="JavaScript Debug.递归大数.html" />
-        <item itemvalue="JavaScript Debug.递归大数" />
-        <item itemvalue="JavaScript Debug.asdfsa.html" />
-        <item itemvalue="JavaScript Debug.using_python_elegance.html" />
       </list>
     </recent_temporary>
   </component>
@@ -260,17 +304,20 @@
       <workItem from="1553748934567" duration="34000" />
       <workItem from="1555060357343" duration="20000" />
       <workItem from="1555861155162" duration="11000" />
+      <workItem from="1556266875785" duration="1637000" />
+      <workItem from="1556268840420" duration="1213000" />
+      <workItem from="1556271097849" duration="432000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6303000" />
+    <option name="totallyTimeSpent" value="9585000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="102" y="57" width="1191" height="763" extended-state="0" />
+    <frame x="99" y="68" width="1191" height="763" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2940171" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23076923" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -496,10 +543,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/uml/用例图/directedassocition.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uml/用例图.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="675">
+          <caret line="45" column="91" selection-start-line="45" selection-start-column="91" selection-end-line="45" selection-end-column="91" />
+          <folding>
+            <element signature="e#327#333#0" expanded="true" />
+            <element signature="e#333#339#0" expanded="true" />
+            <element signature="e#339#345#0" expanded="true" />
+            <element signature="e#345#351#0" expanded="true" />
+            <element signature="e#351#357#0" expanded="true" />
+            <element signature="e#357#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uml/类图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="e#909#915#0" expanded="true" />
+            <element signature="e#915#921#0" expanded="true" />
+            <element signature="e#921#927#0" expanded="true" />
+            <element signature="e#1180#1186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uml/状态图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="78" selection-start-line="17" selection-start-column="78" selection-end-line="17" selection-end-column="78" />
+          <folding>
+            <element signature="e#290#296#0" expanded="true" />
+            <element signature="e#296#302#0" expanded="true" />
+            <element signature="e#302#308#0" expanded="true" />
+            <element signature="e#308#314#0" expanded="true" />
+            <element signature="e#314#320#0" expanded="true" />
+            <element signature="e#320#326#0" expanded="true" />
+            <element signature="e#326#332#0" expanded="true" />
+            <element signature="e#332#338#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -521,30 +609,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/asdfsa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/web_begin.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/js/web_end.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/uml/顺序图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/new_file.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        <state>
+          <caret selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/new_pro.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
+        <state relative-caret-position="331">
           <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uml/活动图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asdfsa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uml/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
         </state>
       </provider>
     </entry>
